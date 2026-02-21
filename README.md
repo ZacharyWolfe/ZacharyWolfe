@@ -1,6 +1,6 @@
 ### Zachary Wolfe
 
-In the words of ThePrimagen: "Just a guy looking to make my developer workflow more awesome, build performant projects, understand memory, and ultimately craft really awesome software."
+In the words of ThePrimagen: "Just a guy looking to make my developer workflow more awesome, build performant projects, understand memory, and ultimately craft really awesome software." Oh, and to build video games over the summer.
 
 Full-time student and hobbyist software developer. Incoming Software Engineer to JPMorgan Chase.
 
